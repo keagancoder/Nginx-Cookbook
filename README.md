@@ -1,2 +1,2 @@
-# Nginx-Cookbook
-极简的Nginx教程，从理论到实战教程
+# Nginx 极简教程
+从理论到实战讲解nginx内容
